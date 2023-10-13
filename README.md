@@ -47,4 +47,4 @@ DB_TABLE_PREFIX=igi_
 ```
 php artisan serve
 ```
-- Check RESTful APIs on Postman
+- Check RESTful APIs on [Postman](https://www.postman.com/hirenchhatbar/workspace/igitt)
