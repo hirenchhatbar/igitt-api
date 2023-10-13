@@ -2,7 +2,7 @@
     <img src="docs/logo.png" alt="igitt logo">
 </p>
 
-# igitt api
+# Igitt Api (beta)
 
 igitt api is the demo project with igitt Laravel package
 
